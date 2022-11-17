@@ -1015,7 +1015,8 @@ done
 fi
 
 # Running VulnScanns:
-text_injection
+#text_injection
+HTML_injection
 ############################################# Exec END
 
 
