@@ -1,5 +1,5 @@
 # 123VScann
-Web-Vulnerability-Scanner by 1twodrei
+A Web-Vulnerability-Scanner
 - - - - - - - - - - - - - - - - - - -
 
 - - - - - - - - - - - - - - - - - - -
